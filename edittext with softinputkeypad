@@ -1,0 +1,5 @@
+1. go to your project manifest file.
+2.  <activity
+            android:name="com.example.git.chatbox" 
+             android:windowSoftInputMode="stateVisible|adjustPan">   
+        </activity>
